@@ -22,3 +22,7 @@ PRODUCT_MODEL := Redmi 9T
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Set to true for building a ROM without GAPPS
+# Set to false for building a ROM with GAPPS included
+RESERVE_SPACE_FOR_GAPPS := true
