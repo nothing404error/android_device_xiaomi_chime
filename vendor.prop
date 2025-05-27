@@ -153,6 +153,7 @@ vendor.gatekeeper.disable_spu=true
 # Graphics
 debug.sf.disable_backpressure=1
 debug.sf.enable_transaction_tracing=false
+debug.sf.disable_client_composition_cache=1
 config.disable_rtt=true
 debug.egl.hw=0
 debug.sf.enable_advanced_sf_phase_offset=1
