@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_chime.mk
+    $(LOCAL_DIR)/superior_chime.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_chime-user \
-    lineage_chime-userdebug \
-    lineage_chime-eng
+    superior_chime-user \
+    superior_chime-userdebug \
+    superior_chime-eng
